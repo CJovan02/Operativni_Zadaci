@@ -1,0 +1,4 @@
+drugi fajl prva linija
+drugi fajl druga linija
+drugi fajl treca linija
+drugi fajl cetvrta linija

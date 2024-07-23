@@ -1,0 +1,6 @@
+poruka1
+poruka2
+poruka3
+poruka4
+poruka5
+poruka6
